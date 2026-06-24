@@ -1,7 +1,11 @@
-﻿# Onboarding Analytics Docs
+# Onboarding Analytics Docs
+
 Документация по системе аналитики новичков: источники, ключи, рубрики оценки, dashboard, AI-анализ, HTML-отчёты.
+
 Главный вход:
 - docs/11_EVALUATION_RUBRICS_BY_STAGE_V1.md
 - docs/12_ANALYTICS_DASHBOARD_AND_REPORT_SPEC_V1.md
 - docs/13_PHASE_3A_ANALYTICS_MODEL_PROMPT.md
 - docs/18_RICH_REPORT_SCOPE_AND_TRAINING_AGENTS_DECISIONS.md
+- docs/19_CALLS_ANALYSIS_STATUS_20260624.md
+- docs/20_NEW_CHAT_HANDOFF_CALLS_ANALYSIS_20260624.md
